@@ -31,7 +31,8 @@ Me chamo Ana Beatriz Nunes Rodrigues, tenho 24 anos e sou natural de São Luís 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+          
 />
 <img 
     align="left" 
